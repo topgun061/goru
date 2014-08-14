@@ -1,0 +1,5 @@
+Django==1.6.1
+Fabric==1.9.1
+South==0.7.5
+gunicorn==17.5
+nginx==1.4.6

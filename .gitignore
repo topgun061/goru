@@ -1,0 +1,9 @@
+
+#Untracked Files
+.bash*
+.profile
+dev_goru/**
+goru/goru/settings/base.py
+goru/goru/settings/settings.py
+*.pyc
+.*swp
